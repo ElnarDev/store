@@ -1,0 +1,11 @@
+# Variables de entorno — nunca subir al repositorio
+.env
+.env.local
+.env.production
+
+# Dependencias
+node_modules/
+
+# Build outputs
+dist/
+build/
